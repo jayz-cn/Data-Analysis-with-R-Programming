@@ -54,3 +54,10 @@ https://www.rstudio.com/
 - [Karl Broman's R Package Primer](https://kbroman.org/pkg_primer/)
 
 
+## R blog for more help
+- [RStudio Blog](https://blog.rstudio.com/): RStudio’s blog is a great place to find information about RStudio, including company news.  You can read the most recent featured posts or use the search bar and the list of categories on the left side of the page to explore specific topics you might find interesting or to search for a specific post. 
+
+- [R-Bloggers](https://www.r-bloggers.com/): The R-Bloggers blog has useful tutorials and news articles posted by other R users in the community. 
+
+- [R-Bloggers' tutorials for learning R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/#h.y5b98o9o2h1r): This blog post from R-Bloggers compiles some basic R tutorials and also links to more advanced guides. 
+
