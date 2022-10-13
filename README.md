@@ -36,12 +36,21 @@ https://www.rstudio.com/
 - [Twitter #rstats](https://twitter.com/hashtag/rstats?lang=en): If you use Twitter, you can connect with other R users using the hashtag #rstats; a lot of R developers and analysts are active on Twitter. 
 
 ### Meetups
-Many organizations host both in-person and online meetups for R users; you should always practice caution and be safe whenever attending meetups in-person. 
 
 - [Local Data Analytics meetups](https://www.meetup.com/topics/data-analytics/): These meetups are a great way to meet other people who are interested in data analytics and build your network. These meetups are location-based, so you can connect with other data analysts in your area. 
 
 - [R User Groups](https://jumpingrivers.github.io/meetingsR/r-user-groups.html): This list contains links to regional R communities, including subreddits and meetup groups. This is a useful resource if you are interested in finding R users in your area. 
 
 - [RLadies Meetups](https://www.meetup.com/pro/rladies): These are in-person and virtual meetups specifically for R enthusiasts who identify as underrepresented or marginalized. These meetups are also location-based and can help you connect with other data analysts in your area. 
+
+## Explore coding in R
+- [R for Data Science](https://r4ds.had.co.nz/index.html): The book teachs you how to do data science with R.
+- [R Basics](http://statseducation.com/Introduction-to-R/)
+- [RDocumentation](https://www.rdocumentation.org/): Search R packages.
+
+## Available R packages
+- [CRAN Task Views](https://cran.r-project.org/web/views/): this is an index of CRAN packages sorted by task.
+- [Quick list of useful R packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages): this is RStudio Support’s list of useful packages with installation instructions and functionality descriptions. 
+- [Karl Broman's R Package Primer](https://kbroman.org/pkg_primer/)
 
 
