@@ -21,6 +21,8 @@ https://www.rstudio.com/
 
 - [Data analysis and R programming by Laurent Gatto](https://lgatto.github.io/2017_11_09_Rcourse_Jena/index.html)
 
+- [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+
 ## Connecting with other analysts in the R community
 
 ### Online communities
@@ -61,3 +63,18 @@ https://www.rstudio.com/
 
 - [R-Bloggers' tutorials for learning R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/#h.y5b98o9o2h1r): This blog post from R-Bloggers compiles some basic R tutorials and also links to more advanced guides. 
 
+## Bias data
+
+- [Bias function](https://www.rdocumentation.org/packages/SimDesign/versions/2.2/topics/bias): This web page is a good starting point to learn about how the bias function in R can help you identify and manage bias in your analysis.
+
+- [Data Science Ethics](https://datasciencebox.org/02-ethics.html): This online course provides slides, videos, and exercises to help you learn more about ethics in the world of data analytics. It includes information about data privacy, misrepresentation in data, and applying ethics to your visualizations.
+
+
+## GGPlot2
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Data Visualization with ggplot2](https://viz-ggplot2.rsquaredacademy.com/ggplot2-quicktour.html)
+
+## R Markdown
+
+-[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): a comprehensive guide to the R Markdown ecosystem.
+-[R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html)
