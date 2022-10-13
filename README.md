@@ -76,5 +76,5 @@ https://www.rstudio.com/
 
 ## R Markdown
 
--[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): a comprehensive guide to the R Markdown ecosystem.
--[R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/): a comprehensive guide to the R Markdown ecosystem.
+- [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html)
